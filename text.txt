@@ -1,2 +1,5 @@
-Dies ist eine Beispieldatei"Neue nderung"
-"nderung im Haupt-Branch"
+Dies ist eine Beispieldatei"Neue Å½nderung"
+
+"Å½nderung im Feature-Branch"
+"Å½nderung im Haupt-Branch"
+
